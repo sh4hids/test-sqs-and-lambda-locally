@@ -1,0 +1,16 @@
+{
+  "name": "my-sqs-message",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "aws-sdk": "^2.537.0",
+    "koa": "^2.8.1"
+  }
+}
